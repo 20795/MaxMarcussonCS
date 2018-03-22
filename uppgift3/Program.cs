@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+Feedback av Gergely Szabo:
+Välkommenterad, tydlig kod.
+Jag tycker att metoden för att populera städernas accommodation lista är mer lämplig i City classen.
+Konverteringen av datatyper ser bra ut.
+Programmet uppfyller både de tekniska kraven och kraven på innehållet.
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -38,7 +45,7 @@ namespace uppgift3
             SqlConnection conn = new SqlConnection();
 
             //Sätter medlemsvariabeln ConnectionString till den connection string för den databas där AirBnB data finns
-            conn.ConnectionString = "Data Source=DESKTOP-VRGDF71;Initial Catalog=Cars;Integrated Security=True";
+            conn.ConnectionString = "server=(local);Integrated Security=True; initial catalog=testDB";
 
             try 
             {

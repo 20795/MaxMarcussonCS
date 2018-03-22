@@ -1,4 +1,9 @@
-﻿//Test Feedback 2
+﻿/*
+Feedback av Gergely Szabo:
+Att hårtkoda värdet 15 för att dela in priserna i staplar är inte fint men det funkar.
+Bra lösning med knappar.
+Programmet uppfyller både de tekniska kraven och kraven på innehållet.
+*/
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

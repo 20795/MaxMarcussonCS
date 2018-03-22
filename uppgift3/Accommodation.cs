@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+Feedback av Gergely Szabo:
+"using System.Linq;" och "using System.Threading.Tasks;" behövs inte.
+Det finns "accommodates" och "accomodates" som funkar logiskt i programmet men är ett grammatiskt fel.
+Annars prefekt!
+Programmet uppfyller både de tekniska kraven och kraven på innehållet.
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

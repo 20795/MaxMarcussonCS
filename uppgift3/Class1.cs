@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+Feedback av Gergely Szabo:
+Filen borde kallas City.cs istället för Class1.cs.
+"using System.Linq;" och "using System.Threading.Tasks;" behövs inte.
+Annars prefekt!
+Programmet uppfyller både de tekniska kraven och kraven på innehållet.
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

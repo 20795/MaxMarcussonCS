@@ -1,4 +1,10 @@
-﻿namespace uppgift3
+﻿/*
+Feedback av Gergely Szabo:
+Större delen av koden(om inte hela) i detta klass skapades automatiskt av Visual Studio.
+Ser bra och tydlig ut.
+Programmet uppfyller både de tekniska kraven och kraven på innehållet.
+ */
+namespace uppgift3
 {
     partial class Form1
     {

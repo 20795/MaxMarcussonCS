@@ -1,8 +1,15 @@
-﻿using System;
+﻿/*
+Feedback av Gergely Szabo:
+Koden är nästa exakt kopia av Leos lösningsförslag så det är perfekt.
+Det enda "felet", jag hittade var att du inte använde System.Threading.Tasks eller 
+System.Linq. Du behöver inte implementera "using" direktiv för de namespaces.
+Programmet uppfyller både de tekniska kraven och kraven på innehållet.
+*/
+using System;
 using System.Collections.Generic;
-using System.Linq;
+//using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+//using System.Threading.Tasks;
 
 namespace uppgift3
 {
